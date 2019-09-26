@@ -3,19 +3,11 @@ layout: page
 title: Resources
 permalink: /resources/
 ---
-Here is a collection of interesting resources for Machine Learning and Computational Neuroscience.
+Here is a collection of things I like on the internet:
 
 ### __Machine Learning__ 
 
 #### Links
-* website with useful resources on [Gaussian Processes](http://www.gaussianprocess.org/)
-* Tom Minka's [EP roadmap](https://tminka.github.io/papers/ep/roadmap.html)
-* Blog on [probabilistic numerics](http://www.probabilistic-numerics.org/)
-* lecture slides for [Gatsby Machine Learning courses](http://www.gatsby.ucl.ac.uk/teaching/courses/index.html) 
-* Wainwright & Jordan's review on [Graphical Models, Exponential Families and Variational Inference](https://people.eecs.berkeley.edu/~wainwrig/Papers/WaiJor08_FTML.pdf)
-* Max Welling's [classnotes](http://www.ics.uci.edu/~welling/classnotes/classnotes.html)
-* Arthur Gretton's [lecture notes](http://www.gatsby.ucl.ac.uk/~gretton/coursefiles/rkhscourse.html) on RKHS theory
-* Orbanz's [lecture notes](http://stat.columbia.edu/~porbanz/papers/porbanz_BNP_draft.pdf) on Bayesian Nonparametrics
 * Chris Olah's [blog](https://colah.github.io/) with useful material on neural networks
 * this [visual exploration](https://distill.pub/2019/visual-exploration-gaussian-processes/) of Gaussian Processes
 
@@ -31,10 +23,6 @@ Here is a collection of interesting resources for Machine Learning and Computati
 ### __Neuroscience__
 
 #### Links
-* Gatsby/SWC Systems and Theoretical Neurosciencde course [lecture slides](http://www.gatsby.ucl.ac.uk/teaching/courses/sntn/sntn-2018/lectures.html) (also with some other useful resources)
-* some introductory material and a collection of notes written by Gatsby students can be found [here](http://www.gatsby.ucl.ac.uk/teaching/courses/sntn/sntn-2017/induction.html) 
-* David Heeger's lecture [handouts](http://www.cns.nyu.edu/~david/)
-* [ModelDB](https://senselab.med.yale.edu/ModelDB/default.cshtml) is a database for computational neuroscience models with published code
 * [CRCNS](https://crcns.org/data-sets) for publicly available neuroscience data sets
 
 #### Books
