@@ -9,4 +9,4 @@ In 2015-16 I was a curriculum coordinator and lecturer for the [Native American 
 
 From 2012-15 I was a mentor, curriculum coordinator and lecturer for the [Health Professions Recruitment Exposure Program (HPREP)](https://hprep.wordpress.com/) at Harvard Medical School.
 
-I've also lectured for various outreach programs including, [Beacon Hill Seminars](https://www.beaconhillseminars.org/), [Science in the News](http://sitn.hms.harvard.edu/) and [Science Works].
+I've also lectured for various outreach programs including, [Beacon Hill Seminars](https://www.beaconhillseminars.org/), [Science in the News](http://sitn.hms.harvard.edu/) and Science Works.
