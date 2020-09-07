@@ -11,3 +11,4 @@ To advance our understanding of the flexibility of biological networks, we study
 #### Compartmentalized Computation : Modules in the Brain
 
 The brain is composed of interconnected regions that perform specialized functions. Strokes and other brain traumas in addition to fMRI studies in humans and widefield imaging studies in mice have provided an increasingly detailed map of the distinct functions across cortical areas. However, there is a weak theoretical framework for what it means when we say two brain regions 'interact'. Additionally, it is unclear what advantages are provided for neural networks through compartmentalized processing. In order to develop hypotheses for how modular networks perform computations, we train artificial neural networks with sparse connections between interacting layers of recurrent neural networks.
+
