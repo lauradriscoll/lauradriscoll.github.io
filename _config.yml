@@ -23,7 +23,7 @@ github_username: lauradriscoll
 
 # Build settings
 markdown: kramdown
-theme: jekyll-theme-midnight
+theme: jekyll-theme-minimal
 gems:
   - jekyll-feed
 exclude:
