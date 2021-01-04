@@ -7,7 +7,6 @@ Here is a collection of things I like on the internet:
 
 ### __Diversity, Equity and Inclusion__ 
 
-#### Links
 * [The Case for Reparations by Ta-Nehisi Coates](https://www.theatlantic.com/magazine/archive/2014/06/the-case-for-reparations/361631/)
 * [Collection of resources on diversity in academia](http://diversityinacademia.strikingly.com/)
 * [Bias watch Neuro](https://biaswatchneuro.com/)
