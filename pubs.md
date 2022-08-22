@@ -16,14 +16,14 @@ permalink: /pubs/
 
 #### Preprints
 
-__Driscoll LN__\*, Shenoy KV, Sussillo D (2022). Flexible multitask computation in recurrent networks utilizes shared dynamical motifs. bioRxiv. [[preprint]](https://www.biorxiv.org/content/10.1101/2022.08.15.503870v1.full.pdf)
+* __Driscoll LN__, Shenoy KV, Sussillo D (2022). Flexible multitask computation in recurrent networks utilizes shared dynamical motifs. bioRxiv. [[preprint]](https://www.biorxiv.org/content/10.1101/2022.08.15.503870v1.full.pdf)
 
-Kuan AT, Bondanelli G, __Driscoll LN__\*, Han J, Kim M, Hildebrand DG, Graham BJ, Thomas LA, Panzeri S, Harvey CD, Lee WCA. (2022). Synaptic wiring motifs in posterior parietal cortex support decision-making. bioRxiv. [[preprint]](https://www.biorxiv.org/content/10.1101/2022.04.13.488176v1.full.pdf)
+* Kuan AT, Bondanelli G, __Driscoll LN__, Han J, Kim M, Hildebrand DG, Graham BJ, Thomas LA, Panzeri S, Harvey CD, Lee WCA. (2022). Synaptic wiring motifs in posterior parietal cortex support decision-making. bioRxiv. [[preprint]](https://www.biorxiv.org/content/10.1101/2022.04.13.488176v1.full.pdf)
 
 
 #### Invited Journal Articles
 
-* __Driscoll LN__\, Duncker L\, Harvey CD (2022). Representational drift: Emerging theories for continual learning and experimental future directions. Current Opinion in Neurobiology. [[paper]](/pdfs/drift_opinion.pdf)
+* __Driscoll LN__, Duncker L, Harvey CD (2022). Representational drift: Emerging theories for continual learning and experimental future directions. Current Opinion in Neurobiology. [[paper]](/pdfs/drift_opinion.pdf)
 
 * __Driscoll LN__, Golub MD, Sussillo D (2018). Computation through Cortical Dynamics. Neuron. [[preview]](/pdfs/Driscoll_2018.pdf)
 
