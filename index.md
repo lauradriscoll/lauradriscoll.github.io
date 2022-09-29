@@ -4,7 +4,7 @@
 # See: https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 layout: page
 ---
-[[CV]](/pdfs/Academic_CV.pdf)
+[CV](/pdfs/Academic_CV.pdf)
 
 I'm a postdoc with Krishna V. Shenoy and David Sussillo in the [Neural Prosthetic Systems Laboratory (NPSL)](https://shenoy.people.stanford.edu/overview) at [Stanford University](https://neuroscience.stanford.edu/). I'm interested in neural population dynamics in the context of learning and memory in cortical networks. How do ensembles of neurons balance flexibility and robustness for new and previously learned computations?
 
