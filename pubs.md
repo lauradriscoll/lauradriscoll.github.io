@@ -4,6 +4,8 @@ title: Publications
 permalink: /pubs/
 ---
 
+[Google Scholar Profile](https://scholar.google.com/citations?user=FBxqiX4AAAAJ&hl=en)
+
 #### Selected Highlights
 * __Driscoll LN__, Shenoy KV, Sussillo D (2022). Flexible multitask computation in recurrent networks utilizes shared dynamical motifs. bioRxiv. [[preprint]](https://www.biorxiv.org/content/10.1101/2022.08.15.503870v1.full.pdf)
 
