@@ -16,11 +16,12 @@ Here is a collection of things I like on the internet:
 
 #### Links
 * [CRCNS](https://crcns.org/data-sets) for publicly available neuroscience data sets
-* [Steve Brunton](https://www.youtube.com/watch?v=0H1gWTaWva4&ab_channel=SteveBrunton) has lots of great lectures on dynamical systems and control.
-* [Stephen Boyd's](https://www.youtube.com/watch?v=bf1264iFr-w&ab_channel=Stanford) Introduction to Linear Dynamical Systems at Stanford is all online.
+* [Neuromatch](https://compneuro.neuromatch.io/tutorials/intro.html) provides incredible lectures and tutorials for getting started in computational neuroscience.
+* [Steve Brunton](https://www.youtube.com/watch?v=0H1gWTaWva4&ab_channel=SteveBrunton) is a great teacher, with lectures on dynamical systems and control.
+* [Stephen Boyd's](https://www.youtube.com/watch?v=bf1264iFr-w&ab_channel=Stanford) Introduction to Linear Dynamical Systems lectures at Stanford are all online.
 
 #### Books
-* Steven Strogatz's [Nonlinear Dynamics and Chaos](https://www.biodyn.ro/course/literatura/Nonlinear_Dynamics_and_Chaos_2018_Steven_H._Strogatz.pdf) - Now that I think about it, why are there so many steve's in dynamics?
+* Steven Strogatz's [Nonlinear Dynamics and Chaos](https://www.biodyn.ro/course/literatura/Nonlinear_Dynamics_and_Chaos_2018_Steven_H._Strogatz.pdf) - Now that I think about it, why are there so many Steves in dynamics?
 * Dayan & Abbott's [Theoretical Neuroscience](http://www.gatsby.ucl.ac.uk/~dayan/book/) textbook
 * Bishop's [Pattern Recognition and Machine Learning](https://www.microsoft.com/en-us/research/people/cmbishop/) textbook
 * Murphy's [Machine Learning](https://www.cs.ubc.ca/~murphyk/MLbook/) textbook
